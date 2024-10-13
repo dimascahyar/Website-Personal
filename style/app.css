@@ -1,0 +1,59 @@
+body {
+    background: linear-gradient(#fff 0%, #b8b8fca6 10%, #5151ebbe 20%, #4c54f1 30%, #4b4bf8 40%, #7e7eecf8 45%, #212bf6 100%);    
+}
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 130px;
+}
+.profilimage {
+    width: 250px;
+}
+.profile h2 {
+    color: white;
+}
+.profile h4 {
+    color: white;
+    transform: translateY(-6px);
+}
+.biodata {
+    background: linear-gradient(#fff 0%, #fefeffc5 60%, #7e7eeca8 100%); 
+    padding-bottom: 250px;
+    padding-top: 65px;
+}
+.row {
+    padding: 0px 10px;
+}
+.layout {
+    transform: translateY(25px);
+}
+.achievement {
+    background: linear-gradient(#7e7eeca8 0%, #5959e7c9 10%, #3c3cf7d3 20%, #2e38fad9 30%, #1a1af8 40%, #212cf600 100%);
+    transform: translateY(-10px);
+    padding-top: 65px;
+}
+.colom {
+    transform: translateY(30px);
+}
+.pencapaian {
+    transform: translateY(30px);
+}
+.achievement h1 {
+    color: white;
+}
+.achievement h6 {
+    color: white;
+}
+.kontak {
+    transform: translateY(400px);
+    padding-top: 35px;
+}
+.kontak a {
+    color: black;
+    font-size: 20px;
+}
+.watermark {
+    padding-top: 30px;
+}
